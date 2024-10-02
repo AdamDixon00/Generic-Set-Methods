@@ -1,9 +1,6 @@
 package hw03;
 /**
- * Name:        Adam Dixon
- * CIN:         304772993
- * Course:      Programming with Data Structures
- * Section:     CS-2013
+ * Author:        Adam Dixon
  * Description: This is the sortedSet class which creates generic set methods. 
  */
 public class sortedSet<E extends Comparable<E>> {
